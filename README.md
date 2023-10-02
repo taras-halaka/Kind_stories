@@ -10,4 +10,4 @@ here will be my test with terraform & k8s (on KIND)
 
 - [v.2.1  - Single-node KIND cluster created manually deploy WordPress using kustomization (from example)](/2.1/README.md)
 
-- [v.2.2  - deploy NGINX using YAML in terraform](/2.2./Readme.md)
+- [v.2.2  - deploy NGINX using YAML in terraform](/2.2/Readme.md)
